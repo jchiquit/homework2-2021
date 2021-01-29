@@ -24,6 +24,7 @@ img{
 }
 div{
   padding: 25px;
+  min-height: 150px;
 }
 #red{
   background-color: #FF0000;
